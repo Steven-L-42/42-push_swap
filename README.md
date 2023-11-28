@@ -1,5 +1,7 @@
 ## Push_swap mit dem Quicksort-Algorithmus
 
+![push_swap](https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png?raw=true)
+
 ### Push_swap-Aufgabe
 
 Die Push_swap-Aufgabe besteht darin, eine Liste von Zahlen auf zwei Stacks, A und B, zu sortieren. Es stehen verschiedene Operationen zur Verfügung, wie das Vertauschen, Verschieben und Rotieren von Elementen auf den Stacks. Das Ziel ist es, die Liste auf Stack A in aufsteigender Reihenfolge zu sortieren, wobei die effizienteste Anzahl von Operationen angestrebt wird.
